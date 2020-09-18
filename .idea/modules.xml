@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExamSystem.iml" filepath="$PROJECT_DIR$/.idea/modules/ExamSystem.iml" group="ExamSystem" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arms/arms.iml" filepath="$PROJECT_DIR$/.idea/modules/arms/arms.iml" group="ExamSystem/arms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arms-imageloader-glide/arms-imageloader-glide.iml" filepath="$PROJECT_DIR$/.idea/modules/arms-imageloader-glide/arms-imageloader-glide.iml" group="ExamSystem/arms-imageloader-glide" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exam/exam.iml" filepath="$PROJECT_DIR$/.idea/modules/exam/exam.iml" group="ExamSystem/exam" />
+    </modules>
+  </component>
+</project>
