@@ -1,2 +1,1 @@
 include ':exam'
-include ':arms', ':arms-imageloader-glide'
